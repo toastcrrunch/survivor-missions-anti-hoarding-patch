@@ -1,0 +1,21 @@
+//MainMissions
+#include "$Mission:\\SurvivorMissionModule\\Missions\\Apartment.c"
+#include "$Mission:\\SurvivorMissionModule\\Missions\\BearHunt.c"
+#include "$Mission:\\SurvivorMissionModule\\Missions\\Camp.c"
+#include "$Mission:\\SurvivorMissionModule\\Missions\\CityMall.c"
+#include "$Mission:\\SurvivorMissionModule\\Missions\\CityStore.c"
+#include "$Mission:\\SurvivorMissionModule\\Missions\\FreePigs.c"
+#include "$Mission:\\SurvivorMissionModule\\Missions\\Ganja.c"
+#include "$Mission:\\SurvivorMissionModule\\Missions\\Graveyard.c"
+#include "$Mission:\\SurvivorMissionModule\\Missions\\Horde.c"
+#include "$Mission:\\SurvivorMissionModule\\Missions\\PlaneCrash.c"
+#include "$Mission:\\SurvivorMissionModule\\Missions\\Psilos.c"
+#include "$Mission:\\SurvivorMissionModule\\Missions\\Shrooms.c"
+#include "$Mission:\\SurvivorMissionModule\\Missions\\Transport.c"
+#include "$Mission:\\SurvivorMissionModule\\Missions\\UrbanMall.c"
+
+//SideMissions
+#include "$Mission:\\SurvivorMissionModule\\Missions\\HeadHunt.c"
+#include "$Mission:\\SurvivorMissionModule\\Missions\\CaptureFlag.c"
+#include "$Mission:\\SurvivorMissionModule\\Missions\\EscortDefend.c"
+#include "$Mission:\\SurvivorMissionModule\\Missions\\Assassin.c"
